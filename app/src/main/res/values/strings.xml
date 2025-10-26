@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">ComposeExpenses</string>
+  <string name="login">Iniciar sesión</string>
+  <string name="register">Crear cuenta</string>
+  <string name="email">Correo</string>
+  <string name="password">Contraseña</string>
+  <string name="google_sign_in">Iniciar con Google</string>
+  <string name="logout">Cerrar sesión</string>
+</resources>
